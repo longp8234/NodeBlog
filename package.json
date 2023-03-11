@@ -1,0 +1,29 @@
+{
+  "name": "nodeexpressf8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/longp8234/NodeBlog.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "pdlong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/longp8234/NodeBlog/issues"
+  },
+  "homepage": "https://github.com/longp8234/NodeBlog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
